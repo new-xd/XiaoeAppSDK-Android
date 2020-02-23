@@ -2,8 +2,8 @@ package com.xiaoeshopsdk.sample.net;
 
 import android.os.Handler;
 import android.os.Looper;
+import android.support.annotation.NonNull;
 import android.util.Log;
-import androidx.annotation.NonNull;
 import com.google.gson.Gson;
 import com.google.gson.JsonParseException;
 import java.io.IOException;

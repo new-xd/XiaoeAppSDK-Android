@@ -1,6 +1,9 @@
 package com.xiaoeshopsdk.sample;
 
 import android.os.Bundle;
+import android.support.v7.app.ActionBar;
+import android.support.v7.app.AlertDialog;
+import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.KeyEvent;
@@ -14,9 +17,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
-import androidx.appcompat.app.ActionBar;
-import androidx.appcompat.app.AlertDialog;
-import androidx.appcompat.app.AppCompatActivity;
 import com.xiaoe.shop.webcore.XEToken;
 import com.xiaoe.shop.webcore.XiaoEWeb;
 import com.xiaoe.shop.webcore.bridge.JsBridgeListener;
